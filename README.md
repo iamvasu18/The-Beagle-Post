@@ -13,14 +13,9 @@ The Beagle Blog contains:
 
 ---
 
-## 🚀 Live Demo
-🔗 [View Deployed Project](https://iamvasu18.github.io/The-Beagle-Post/)
-
----
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3
 - GitHub Pages (for deployment)
 
 ---
