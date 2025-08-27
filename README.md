@@ -20,6 +20,10 @@ The Beagle Blog contains:
 
 ---
 
+## 🚀 Live Demo
+👉 [View Live Demo](https://68adeb8a4b7e19bd9e883655--darling-parfait-81580a.netlify.app/)
+
+
 ## 📂 Project Structure
 the-Beagle-Post/
 index.html
